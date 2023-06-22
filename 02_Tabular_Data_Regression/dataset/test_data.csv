@@ -1,0 +1,2 @@
+VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,pickup_longitude,pickup_latitude,RatecodeID,store_and_fwd_flag,dropoff_longitude,dropoff_latitude,payment_type,fare_amount,extra,mta_tax,tip_amount,tolls_amount,improvement_surcharge,total_amount
+1,2016-03-01 03:43:49,2016-03-01 04:07:24,1,5.3,-73.98236083984375,40.76769256591797,1,N,-73.89595794677734,40.73815155029297,2,21.5,0.5,0.5,0.0,0.0,0.3,22.8
