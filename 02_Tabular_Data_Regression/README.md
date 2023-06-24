@@ -1,18 +1,3 @@
----
-jupyter:
-  jupytext:
-    formats: ipynb,md
-    text_representation:
-      extension: .md
-      format_name: markdown
-      format_version: '1.3'
-      jupytext_version: 1.14.4
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
----
-
 # AutoML with AutoGluon for Tabular Data
 
 ```python
@@ -140,7 +125,7 @@ plt.legend(bbox_to_anchor=(1.01,1.01))
 plt.savefig('assets/AutoML_with_AutoGluon_01.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](./assets/AutoML_with_AutoGluon_01.webp)
+![AutoML with AutoGluon for Tabular Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/02_Tabular_Data_Regression/assets/AutoML_with_AutoGluon_01.webp)
 
 
 #### Model Loading
@@ -176,7 +161,7 @@ plt.title('Evaluation Metrics')
 plt.savefig('assets/AutoML_with_AutoGluon_02.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](./assets/AutoML_with_AutoGluon_02.webp)
+![AutoML with AutoGluon for Tabular Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/02_Tabular_Data_Regression/assets/AutoML_with_AutoGluon_02.webp)
 
 
 #### Feature Interpretability
@@ -200,7 +185,7 @@ sns.barplot(
 plt.savefig('assets/AutoML_with_AutoGluon_03.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](./assets/AutoML_with_AutoGluon_03.webp)
+![AutoML with AutoGluon for Tabular Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/02_Tabular_Data_Regression/assets/AutoML_with_AutoGluon_03.webp)
 
 
 #### Running Predictions
