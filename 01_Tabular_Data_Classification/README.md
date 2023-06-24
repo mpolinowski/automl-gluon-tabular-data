@@ -204,7 +204,7 @@ plt.title('Evaluation Metrics')
 plt.savefig('assets/AutoML_with_AutoGluon_02.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](https://raw.githubusercontent.com/mpolinowski/automl-gluon-tabular-data/master/AutoML_with_AutoGluon_02.webp)
+![AutoML with AutoGluon for Tabular Data](https://raw.githubusercontent.com/mpolinowski/automl-gluon-tabular-data/master/01_Tabular_Data_Classification/assets/AutoML_with_AutoGluon_02.webp)
 
 
 ### Feature Interpretability
@@ -266,7 +266,7 @@ sns.barplot(
 plt.savefig('assets/AutoML_with_AutoGluon_03.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](https://raw.githubusercontent.com/mpolinowski/automl-gluon-tabular-data/master/AutoML_with_AutoGluon_03.webp)
+![AutoML with AutoGluon for Tabular Data](https://raw.githubusercontent.com/mpolinowski/automl-gluon-tabular-data/master/01_Tabular_Data_Classification/assets/AutoML_with_AutoGluon_03.webp)
 
 
 ## Running Predictions
