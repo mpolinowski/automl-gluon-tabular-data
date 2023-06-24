@@ -143,7 +143,7 @@ df_sample.loc['online_sales']['target'].plot(
 plt.savefig('assets/AutoGluon_AutoML_TimeSeries_01.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Timeseries Data](./assets/AutoGluon_AutoML_TimeSeries_01.webp)
+![AutoML with AutoGluon for Timeseries Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/04_Time_Series_Predictions/assets/AutoGluon_AutoML_TimeSeries_01.webp)
 
 ```python
 df_sample.to_csv('dataset/single_variant_ts.csv', index=True)
@@ -294,7 +294,7 @@ plot_predictions(
 plt.savefig('assets/AutoGluon_AutoML_TimeSeries_02.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Timeseries Data](./assets/AutoGluon_AutoML_TimeSeries_02.webp)
+![AutoML with AutoGluon for Timeseries Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/04_Time_Series_Predictions/assets/AutoGluon_AutoML_TimeSeries_02.webp)
 
 
 ## Multi Variate Forecasting - Future Covariants
@@ -448,7 +448,7 @@ plot_predictions(
 plt.savefig('assets/AutoGluon_AutoML_TimeSeries_03.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Timeseries Data](./assets/AutoGluon_AutoML_TimeSeries_03.webp)
+![AutoML with AutoGluon for Timeseries Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/04_Time_Series_Predictions/assets/AutoGluon_AutoML_TimeSeries_03.webp)
 
 
 ## Multi Variate Forecasting - Past Covariants
@@ -612,4 +612,4 @@ plot_predictions(
 plt.savefig('assets/AutoGluon_AutoML_TimeSeries_04.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Timeseries Data](./assets/AutoGluon_AutoML_TimeSeries_04.webp)
+![AutoML with AutoGluon for Timeseries Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/04_Time_Series_Predictions/assets/AutoGluon_AutoML_TimeSeries_04.webp)
