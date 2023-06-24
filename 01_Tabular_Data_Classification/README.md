@@ -168,7 +168,7 @@ plt.legend(bbox_to_anchor=(1.01,1.01))
 plt.savefig('assets/AutoML_with_AutoGluon_01.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Tabular Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/AutoML_with_AutoGluon_01.webp)
+![AutoML with AutoGluon for Tabular Data](https://raw.githubusercontent.com/mpolinowski/automl-gluon-tabular-data/master/01_Tabular_Data_Classification/assets/AutoML_with_AutoGluon_01.webp)
 
 
 ### Model Loading
