@@ -148,7 +148,7 @@ confusion.plot(cmap='viridis')
 plt.savefig('assets/Multi-Class_Classification_NLP_10.webp', bbox_inches='tight')
 ```
 
-![AutoML with AutoGluon for Multi-Modal Data](./assets/Multi-Class_Classification_NLP_10.webp)
+![AutoML with AutoGluon for Multi-Modal Data](https://github.com/mpolinowski/automl-gluon-tabular-data/raw/master/03_Multi-Class_Classification_NLP/assets/Multi-Class_Classification_NLP_10.webp)
 
 
 ## Binary Classification with the MultiModalPredictor
