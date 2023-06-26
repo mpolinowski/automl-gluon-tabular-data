@@ -2,6 +2,7 @@
 02_Tabular_Data_Regression/.ipynb_checkpoints
 03_Multi-Class_Classification_NLP/.ipynb_checkpoints
 04_Time_Series_Predictions/.ipynb_checkpoints
+05_Real_World_Model/.ipynb_checkpoints
 01_Tabular_Data_Classification/dataset/hotel_bookings.csv
 02_Tabular_Data_Regression/dataset/uber_data.csv
 03_Multi-Class_Classification_NLP/dataset/kindle_review.csv
@@ -9,7 +10,9 @@
 04_Time_Series_Predictions/dataset/online-retail-dataset.csv
 04_Time_Series_Predictions/dataset/RestaurantVisitors.csv
 04_Time_Series_Predictions/dataset/AirPollution.csv
+05_Real_World_Model_to_Deployment/dataset
 01_Tabular_Data_Classification/model
 02_Tabular_Data_Regression/model
 03_Multi-Class_Classification_NLP/model
 04_Time_Series_Predictions/model
+05_Real_World_Model_to_Deployment/model
